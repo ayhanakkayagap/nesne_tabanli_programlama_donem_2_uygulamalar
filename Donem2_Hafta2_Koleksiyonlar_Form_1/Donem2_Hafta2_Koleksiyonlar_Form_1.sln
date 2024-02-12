@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donem2_Hafta2_Koleksiyonlar_Form_1", "Donem2_Hafta2_Koleksiyonlar_Form_1\Donem2_Hafta2_Koleksiyonlar_Form_1.csproj", "{E40A9598-64C7-4373-82EB-44F59FF33E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40A9598-64C7-4373-82EB-44F59FF33E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40A9598-64C7-4373-82EB-44F59FF33E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40A9598-64C7-4373-82EB-44F59FF33E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40A9598-64C7-4373-82EB-44F59FF33E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC35EC9-6EF2-4464-8719-3A5A857B223A}
+	EndGlobalSection
+EndGlobal
